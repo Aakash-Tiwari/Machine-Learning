@@ -1,3 +1,1 @@
-# Machine-Learning
-
-## CS-307 Coursework
+# CS-307 Coursework

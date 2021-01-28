@@ -9,14 +9,14 @@ def gaussian(x, mu, sig):
 
 x = {randrange(4, 8) - random() for i in range(10)}
 x = list(x)
-print("10 Samples are : ", x)
-sorted(x)
 likelihood = []; mu = []
 for i in range(0, 110):
     y = gaussian(np.array(x), i/10, 1)
     prod = np.prod(y)
     likelihood.append(prod)
     mu.append(i/10)
-
+x.sort()
 y.sort()
+print("10 Samples are : ", x)
+
 plt.plot(mu, likelihood)

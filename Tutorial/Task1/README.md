@@ -6,4 +6,8 @@
 
 
 * Output : 
- 
+
+
+
+![Output1](https://user-images.githubusercontent.com/69835817/106099454-b49ee900-6160-11eb-8248-91e1d298d61e.png)
+

@@ -5,5 +5,5 @@
   * Draw likelihood function for mean between 0 to 10. (Keep var = 1 constant)
 
 
-* Output :
-
+* Output : 
+ 

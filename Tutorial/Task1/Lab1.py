@@ -7,7 +7,7 @@ from random import randrange, random
 def gaussian(x, mu, sig):
     return np.exp(-np.power(x - mu, 2.) / (2 * np.power(sig, 2.)))
 
-x = {randrange(4, 8) - random() for i in range(10)}
+x = {randrange(2, 9) - random() for i in range(10)}
 x = list(x)
 likelihood = []; mu = []
 for i in range(0, 110):

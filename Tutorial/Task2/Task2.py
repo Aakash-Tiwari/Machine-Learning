@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import math
+from numpy.linalg import matrix_rank, inv, solve 
 
 x =np.array([1, 2, 3 ])
 t = np.array([1.2, 1.9, 3.2])
@@ -21,6 +23,6 @@ slope, intercept = w1, w0
 abline_values = [slope * i + intercept for i in x]
 print( w1, w0)
 
-plt.plot(x, y, '--')
+plt.scatter(x, t)
 plt.plot(x, abline_values, 'b')
 plt.show()

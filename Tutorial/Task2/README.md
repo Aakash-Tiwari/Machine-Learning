@@ -7,4 +7,4 @@
   
 * Output :  
 
-![Tutorial2](https://user-images.githubusercontent.com/69835817/106126939-086ef980-6184-11eb-9466-4647e7c248a8.png)
+![Task2](https://user-images.githubusercontent.com/69835817/106414803-8a586e80-6473-11eb-99b9-1a5330598bcf.png)

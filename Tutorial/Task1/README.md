@@ -8,6 +8,5 @@
 * Output : 
 
 
-
-![Output1](https://user-images.githubusercontent.com/69835817/106099454-b49ee900-6160-11eb-8248-91e1d298d61e.png)
+![Likelihood](https://user-images.githubusercontent.com/69835817/106555208-1eddd200-6543-11eb-8821-4f1daa4f9ea0.png)
 

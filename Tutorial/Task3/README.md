@@ -6,7 +6,7 @@
 
 * Output :
 
-![img1](https://user-images.githubusercontent.com/69835817/107881219-6b44ec80-6f09-11eb-9dfd-2afdfe4a27be.png)
 
 
-![img2](https://user-images.githubusercontent.com/69835817/107881228-7566eb00-6f09-11eb-9f57-ba105eb78e07.png)
+
+

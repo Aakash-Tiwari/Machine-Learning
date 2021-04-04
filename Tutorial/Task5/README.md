@@ -7,4 +7,5 @@
 
 * Output : 
 
-![output_task5](https://user-images.githubusercontent.com/69835817/113498145-f7e25300-9527-11eb-89ae-2a4a826e45d4.jpeg)
+
+![kernel_regression](https://user-images.githubusercontent.com/69835817/113498172-2e1fd280-9528-11eb-9e76-8c8a09fd63de.png)
